@@ -1,0 +1,29 @@
+{
+	"background_color": "#48EAAB",
+	"categories": [ "social" ],
+	"description": "Nicolas Paul is a computer enthusiast.",
+	"display": "minimal-ui",
+	"icons": [
+		{
+			"src": "icon.webp",
+			"sizes": "1024x1024",
+			"type": "image/webp"
+		},
+		{
+			"src": "favicon.ico",
+			"sizes": "256x256",
+			"type": "image/x-icon"
+		},
+		{
+			"src": "icon.png",
+			"sizes": "1024x1024",
+			"type": "image/png"
+		}
+	],
+	"name": "Nicolas Paul",
+	"orientation": "portrait",
+	"screenshots": [],
+	"short_name": "nc0.fr",
+	"start_url": "https://nc0.fr",
+	"theme_color": "#4ACF9B"
+}

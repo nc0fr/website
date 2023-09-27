@@ -58,7 +58,7 @@ jobs:
           cache: 'npm'
       - name: Install NPM deps
         run: npm ci
-      - uses: actions/upload-artifact@v2
+      - uses: actions/upload-artifact@v3
         with:
           name: site
           path: src

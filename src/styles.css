@@ -53,6 +53,7 @@ h1 {
 	text-transform: uppercase;
 	font-size: 150%;
 	letter-spacing: 0.5em;
+	color: #0E9D65;
 }
 
 p {
@@ -62,15 +63,16 @@ p {
 }
 
 p > a {
-	color: #fff;
+	color: #1AA06C;
 	text-decoration: none;
 }
 
 nav {
 	display: flex;
-	align-items: center;
-	justify-content: center;
+	flex-wrap: wrap;
 	gap: 20px;
+	justify-content: center;
+	align-items: center;
 }
 
 img {

@@ -54,12 +54,14 @@ h1 {
 	font-size: 150%;
 	letter-spacing: 0.5em;
 	color: #0E9D65;
+	padding-top: 5%;
 }
 
 p {
 	text-transform: lowercase;
 	letter-spacing: 0.3em;
 	font-size: 120%;
+	color: #EB5603;
 }
 
 p > a {
@@ -67,12 +69,10 @@ p > a {
 	text-decoration: none;
 }
 
-nav {
-	display: flex;
-	flex-wrap: wrap;
-	gap: 20px;
-	justify-content: center;
-	align-items: center;
+p > a:hover {
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	font-size: 150%;
 }
 
 img {
@@ -80,7 +80,7 @@ img {
 	height: 256px;
 	border-radius: 5%;
 	box-shadow: 0 4px 4px rgba(0, 0, 0, .25);
-	margin-top: 5rem;
-	margin-bottom: 5rem;
+	margin-top: 5%;
+	margin-bottom: 5%;
 }
 

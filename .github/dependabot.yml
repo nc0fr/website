@@ -38,15 +38,6 @@
 
 version: 2
 updates:
-  - package-ecosystem: npm
-    directory: /
-    assignees: [ nc0fr ]
-    schedule:
-      timezone: Europe/Paris
-      interval: monthly
-      day: monday
-    reviewers: [ nc0fr ]
-    target-branch: master
   - package-ecosystem: github-actions
     directory: /
     assignees: [ nc0fr ]
